@@ -1,0 +1,64 @@
+{
+    "name": "TolaZz Repo ESign",
+    "identifier": "xnxx.com.kh",
+    "sourceURL": "https://raw.githubusercontent.com/TolaZz/Repo/main/TolaZzRepoEsign.json",
+    "apps": [
+
+        {
+            "name": "Free Fire Frog Mod",
+            "bundleIdentifier": "com.dts.freefireth",
+            "developerName": "Garena Free Fire",
+            "version": "1.90.2",
+            "versionDate": "2022-06-12T11:22:00+08:00",
+            "versionDescription": "Don’t Use Big Account\nAdmin : TolaZz\nAdmin : LeangZz",
+            "downloadURL": "https://archive.org/download/free-fire-frog-mod/Free%20Fire%20Frog%20Mod.ipa",
+            "localizedDescription": "Free Fire",
+            "iconURL": "https://tolazz.github.io/Repos/Image/freefirelogo.PNG",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 757197237
+        },
+        {
+            "name": "Unc0ver",
+            "bundleIdentifier": "science.xnu.undecimus",
+            "developerName": "Unc0ver Team",
+            "version": "8.0.2",
+            "versionDate": "2022-06-12T11:36:00+08:00",
+            "versionDescription": "Unc0ver 8.0.2\nSupport A12 & A13\nIos 14.4+\nFrog Mod Ios",
+            "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+            "localizedDescription": "Unc0ver",
+            "iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/uncover-unc0ver-Icon-app-200px.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 1,
+            "size": 4216246
+        },
+        {
+            "name": "FR Legends",
+            "bundleIdentifier": "com.fengiiley.frlegends",
+            "developerName": "Spirit of driving",
+            "version": "0.3.2",
+            "versionDate": "2022-06-13T06:13:00+08:00",
+            "versionDescription": "Hack Features:\n- Infinite Gold (Spend some/ Get some)\n- Infinite Cash (Spend some/ Get some)\n- Infinite Layer",
+            "downloadURL": "https://archive.org/download/frios-gods/FRIosGods.ipa",
+            "localizedDescription": "FR LEGENDS",
+            "iconURL": "https://tolazz.github.io/Repos/Image/FrLegendsLogo.PNG",
+            "tintColor": "018084",
+            "isLanZouCloud": 1,
+            "size": 4216246
+        },
+        {
+            "name": "ROS - RCS",
+            "bundleIdentifier": "com.netease.chiji",
+            "developerName": "Netease",
+            "version": "161-xxx",
+            "versionDate": "2022-06-13T06:11:26+08:00",
+            "versionDescription": "ROS - RCS\nIGameGod\nRCS Mod\nលួចដោយ : TolaZz😂",
+            "downloadURL": "https://archive.org/download/ros-rcs-1.610145.462389-1653015768/ROS%20-%20RCS_1.610145.462389_1653015768.ipa",
+            "localizedDescription": "RULES OF SURVIVAL",
+            "iconURL": "https://tolazz.github.io/Repos/Image/RosRcsLogo.PNG",
+            "tintColor": "018084",
+            "isLanZouCloud": 1,
+            "size": 3257197237
+        }
+    ]
+}
